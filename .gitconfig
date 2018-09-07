@@ -1,0 +1,9 @@
+# Editor configuration, see http://editorconfig.org
+[user]
+	name = Jose Victor Pacajoj Mejia
+	email = jovipac@hotmail.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto

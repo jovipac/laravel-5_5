@@ -1,25 +1,50 @@
 {
-    "customers": [
-      {
-        "id": 1,
-        "first_name": "Sebastian",
-        "last_name": "Eschweiler",
-        "email": "sebastian@codingthesmartway.com",
-        "birth_date": "11-03-1985"
-      },
-      {
-        "id": 2,
-        "first_name": "Steve",
-        "last_name": "Palmer",
-        "email": "steve@codingthesmartway.com",
-        "birth_date": "11-03-1985"
-      },
-      {
-        "id": 3,
-        "first_name": "Ann",
-        "last_name": "Smith",
-        "email": "ann@codingthesmartway.com",
-        "birth_date": "11-03-1985"
-      }
-    ]
-  }
+  "customers": [
+    {
+      "id": 1,
+      "firstName": "Sebastian",
+      "lastName": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com",
+      "nit": "30953774",
+      "birthDate": "11-03-1985"
+    },
+    {
+      "id": 2,
+      "firstName": "Steve",
+      "lastName": "Palmer",
+      "email": "steve@codingthesmartway.com",
+      "birthDate": "11-03-1985"
+    },
+    {
+      "id": 3,
+      "firstName": "Ann",
+      "lastName": "Smith",
+      "email": "ann@codingthesmartway.com",
+      "birthDate": "11-03-1985"
+    },
+    {
+      "id": 6,
+      "firstName": "Esteban",
+      "lastName": "Lara",
+      "email": "jovipacme@outlook.es",
+      "nit": "43737373-3",
+      "birthDate": "1987-04-13"
+    },
+    {
+      "id": 7,
+      "firstName": "Luis",
+      "lastName": "Lopez",
+      "email": "codecmedia.gt@gmail.com",
+      "nit": "454545",
+      "birthDate": "2018-04-09"
+    },
+    {
+      "id": 8,
+      "firstName": "Jorge",
+      "lastName": "Melendez",
+      "email": "jovipac@hotmail.com",
+      "nit": "999898778",
+      "birthDate": "1875-03-02"
+    }
+  ]
+}
